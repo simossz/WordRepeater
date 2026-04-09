@@ -1,4 +1,4 @@
-# Zani Simone
+# Made By Simo
 # 24/03/2026
 parola = input("Scrivi una parola.")
 numero = input("Scrivi quante volte vuoi vederla.")
